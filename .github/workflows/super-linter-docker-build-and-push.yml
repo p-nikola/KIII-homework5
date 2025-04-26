@@ -1,5 +1,5 @@
 # https://github.com/github/super-linter
-name: Lint Code Base and Docker Build and Push
+name: Lint Code Base and Docker build and push
 
 on:
   push:
